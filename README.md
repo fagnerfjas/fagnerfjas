@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fagnerfjas
 - 👀 I’m interested in learn, to produce, web development, data cience and many other things.
-- 🌱 I’m currently learning Docker and Kubernets
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Docker, Kubernets, Python, Data Structures(again).
+- 💞️ I’m work
 - 📫 How to reach me ... send me a message on my e-mail=fagnerfjas@gmail.com
 
 <!---
